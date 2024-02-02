@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">1011953228899</string>
+    <string name="google_api_key" translatable="false">AIzaSyBUljEd3R_-iG_jq8KUP3kBGjbc3yCvtI4</string>
+    <string name="google_app_id" translatable="false">1:1011953228899:android:776d23ebe1173f25072c56</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBUljEd3R_-iG_jq8KUP3kBGjbc3yCvtI4</string>
+    <string name="google_storage_bucket" translatable="false">code-beyond-earth.appspot.com</string>
+    <string name="project_id" translatable="false">code-beyond-earth</string>
+</resources>

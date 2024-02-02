@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ahrorovkspace.afkorhackathon.app-mergeDebugResources-78:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ahrorov\\.gradle\\caches\\transforms-3\\3c66b9e1d6f5b9aa27ba1d1def784d43\\transformed\\appcompat-1.6.1\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

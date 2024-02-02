@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "com.ahrorovkspace.afkorhackathon.app-merged_res-80:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ahrorovkspace.afkorhackathon.app-main-82:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ahrorovkspace.afkorhackathon.app-merged_res-80:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.ahrorovkspace.afkorhackathon.app-main-82:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ahrorovkspace.afkorhackathon.app-merged_res-80:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.ahrorovkspace.afkorhackathon.app-main-82:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.ahrorovkspace.afkorhackathon.app-merged_res-80:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.ahrorovkspace.afkorhackathon.app-main-82:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ahrorovkspace.afkorhackathon.app-merged_res-80:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.ahrorovkspace.afkorhackathon.app-main-82:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.ahrorovkspace.afkorhackathon.app-merged_res-80:/xml_network_security_config.xml.flat",
+        "source": "com.ahrorovkspace.afkorhackathon.app-main-82:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.ahrorovkspace.afkorhackathon.app-merged_res-80:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.ahrorovkspace.afkorhackathon.app-main-82:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ahrorovkspace.afkorhackathon.app-merged_res-80:/drawable_smedium.jpg.flat",
+        "source": "com.ahrorovkspace.afkorhackathon.app-main-82:/drawable/smedium.jpg"
+    },
+    {
+        "merged": "com.ahrorovkspace.afkorhackathon.app-merged_res-80:/raw_application.json.flat",
+        "source": "com.ahrorovkspace.afkorhackathon.app-main-82:/raw/application.json"
+    },
+    {
+        "merged": "com.ahrorovkspace.afkorhackathon.app-merged_res-80:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.ahrorovkspace.afkorhackathon.app-main-82:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ahrorovkspace.afkorhackathon.app-merged_res-80:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ahrorovkspace.afkorhackathon.app-main-82:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ahrorovkspace.afkorhackathon.app-merged_res-80:/xml_data_extraction_rules.xml.flat",
+        "source": "com.ahrorovkspace.afkorhackathon.app-main-82:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.ahrorovkspace.afkorhackathon.app-merged_res-80:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.ahrorovkspace.afkorhackathon.app-main-82:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ahrorovkspace.afkorhackathon.app-merged_res-80:/drawable_orig.jpg.flat",
+        "source": "com.ahrorovkspace.afkorhackathon.app-main-82:/drawable/orig.jpg"
+    },
+    {
+        "merged": "com.ahrorovkspace.afkorhackathon.app-merged_res-80:/drawable_nasalogolarge.png.flat",
+        "source": "com.ahrorovkspace.afkorhackathon.app-main-82:/drawable/nasalogolarge.png"
+    },
+    {
+        "merged": "com.ahrorovkspace.afkorhackathon.app-merged_res-80:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.ahrorovkspace.afkorhackathon.app-main-82:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ahrorovkspace.afkorhackathon.app-merged_res-80:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.ahrorovkspace.afkorhackathon.app-main-82:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.ahrorovkspace.afkorhackathon.app-merged_res-80:/xml_backup_rules.xml.flat",
+        "source": "com.ahrorovkspace.afkorhackathon.app-main-82:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.ahrorovkspace.afkorhackathon.app-merged_res-80:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.ahrorovkspace.afkorhackathon.app-main-82:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.ahrorovkspace.afkorhackathon.app-merged_res-80:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.ahrorovkspace.afkorhackathon.app-main-82:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ahrorovkspace.afkorhackathon.app-merged_res-80:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ahrorovkspace.afkorhackathon.app-main-82:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ahrorovkspace.afkorhackathon.app-merged_res-80:/drawable_app_icon.png.flat",
+        "source": "com.ahrorovkspace.afkorhackathon.app-main-82:/drawable/app_icon.png"
+    }
+]

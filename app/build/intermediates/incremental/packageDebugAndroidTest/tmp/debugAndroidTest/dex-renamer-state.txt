@@ -1,0 +1,7 @@
+#Mon Nov 13 13:11:10 TJT 2023
+base.0=C\:\\Users\\ahrorov\\AndroidStudioProjects\\AfkorHackathon\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.1=C\:\\Users\\ahrorov\\AndroidStudioProjects\\AfkorHackathon\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\15\\classes.dex
+path.0=0/classes.dex
+path.1=15/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

@@ -1,0 +1,53 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ahrorovkspace.afkorhackathon.app-mergeDebugResources-78:/values-de-rDE/values-de-rDE.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ahrorov\\.gradle\\caches\\transforms-3\\8ef6e1720c1661f89b79f5c0c6f81753\\transformed\\core-1.0.2\\res\\values-de-rDE\\values-de-rDE.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,100",
+                        "endColumns": "44,33",
+                        "endOffsets": "95,129"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ahrorov\\.gradle\\caches\\transforms-3\\442cb0003735187a952f0c6b917cab77\\transformed\\calendar-1.0.2\\res\\values-de-rDE\\values-de-rDE.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,128,200,274,345,422",
+                        "endColumns": "72,71,73,70,76,74",
+                        "endOffsets": "123,195,269,340,417,492"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "134,207,279,353,424,501",
+                        "endColumns": "72,71,73,70,76,74",
+                        "endOffsets": "202,274,348,419,496,571"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ahrorov\\.gradle\\caches\\transforms-3\\60d36655474db01b3455883d005d1e56\\transformed\\clock-1.0.2\\res\\values-de-rDE\\values-de-rDE.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,126,202,279,358,448,519,612",
+                        "endColumns": "70,75,76,78,89,70,92,78",
+                        "endOffsets": "121,197,274,353,443,514,607,686"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "576,647,723,800,879,969,1040,1133",
+                        "endColumns": "70,75,76,78,89,70,92,78",
+                        "endOffsets": "642,718,795,874,964,1035,1128,1207"
+                    }
+                }
+            ]
+        }
+    ]
+}

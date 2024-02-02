@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1011953228899",
+    "project_id": "code-beyond-earth",
+    "storage_bucket": "code-beyond-earth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011953228899:android:776d23ebe1173f25072c56",
+        "android_client_info": {
+          "package_name": "com.ahrorovkspace.afkorhackathon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUljEd3R_-iG_jq8KUP3kBGjbc3yCvtI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
